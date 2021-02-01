@@ -1,4 +1,4 @@
-### Hi there, I'm Gamliel - aka gamcoh [gamlielcohen.com][website] 👋
+### Hi there, I'm Gamliel - aka gamcoh 👋
 ---
 ## I'm a web developer, a data scientist, and a teacher!
 - 🔭 I’m currently working as a data scientist at [Adventure Conseil][adv]!
