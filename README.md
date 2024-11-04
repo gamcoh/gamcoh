@@ -1,10 +1,10 @@
-### Hi there, I'm Gamliel - aka gamcoh 👋
----
-## I'm a web developer, a data scientist, and a teacher!
-- 🔭 I’m currently working as a data scientist at [Adventure Conseil][adv]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+Hi there, I'm Gamliel – aka gamcoh 👋
+I'm a Full-Stack Developer, Data Scientist, and Educator!
+
+🔭 Currently diving into exciting projects in development and data science.
+🌱 Continuously expanding my knowledge and skills.
+👥 Always open to collaborations with other creators and professionals.
+🎯 Goals: Increase my contributions to open-source projects and community initiatives.
 
 ### Connect with me:
 
